@@ -3,9 +3,6 @@
 ## Overview
 
 This project explores the relationship between various factors and life expectancy. It uses exploratory data analysis (EDA) techniques to gain insights into the dataset and then employs linear regression analysis to understand how specific independent variables impact life expectancy.
-Below are two examples of the linear regression modules produced: 
-![LR schooling](https://github.com/Stephanie241/LinearRegressionProject/assets/144491602/ba814c70-a82a-4fc5-8f44-95b50addcc85)
-![LR alcohol](https://github.com/Stephanie241/LinearRegressionProject/assets/144491602/3fd41664-9c2d-4540-970e-bf3e7f7a418c)
 
 ## Table of Contents
 
@@ -18,6 +15,10 @@ Below are two examples of the linear regression modules produced:
 7. [Results and Visualizations](#results-and-visualizations)
 8. [Conclusion](#conclusion)
 9. [Future Improvements](#future-improvements)
+
+Below are two examples of the linear regression modules produced: 
+![LR schooling](https://github.com/Stephanie241/LinearRegressionProject/assets/144491602/ba814c70-a82a-4fc5-8f44-95b50addcc85)
+![LR alcohol](https://github.com/Stephanie241/LinearRegressionProject/assets/144491602/3fd41664-9c2d-4540-970e-bf3e7f7a418c)
 
 ## Project Description
 
