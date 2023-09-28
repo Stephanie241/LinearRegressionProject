@@ -38,6 +38,7 @@ You can install them using pip:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 # LinearRegressionProject
+```
 
 ## Data Overview
 The dataset used in this project contains information about various health and socio-economic factors for different countries, including life expectancy, alcohol consumption, GDP, and more. The data is cleaned and preprocessed to remove missing values.
