@@ -12,7 +12,7 @@ This project explores the relationship between various factors and life expectan
 4. [Data Overview](#data-overview)
 5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 6. [Linear Regression Analysis](#linear-regression-analysis)
-7. [Results and Visualizations](#results-and-visualizations)
+7. [Results and Visualisations](#results-and-visualisations)
 8. [Conclusion](#conclusion)
 9. [Future Improvements](#future-improvements)
 
@@ -26,7 +26,7 @@ Life expectancy is a crucial indicator of a country's overall well-being. This p
 
 - Conducting exploratory data analysis (EDA) to uncover patterns and relationships in the data.
 - Building linear regression models to quantify the impact of independent variables on life expectancy.
-- Visualizing the results to communicate insights effectively.
+- Visualising the results to communicate insights effectively.
 
 ## Prerequisites
 
@@ -47,7 +47,7 @@ The dataset used in this project contains information about various health and s
 
 ## Exploratory Data Analysis (EDA)
 The EDA phase involves:
-- Data visualization to understand the distribution of variables.
+- Data visualisation to understand the distribution of variables.
 - Correlation analysis to identify relationships between variables.
 - Data cleaning and preprocessing.
 
@@ -58,8 +58,8 @@ Linear regression models are built to quantify the impact of independent variabl
 -R-squared: The goodness of fit of the model.
 -Mean Squared Error (MSE): A measure of model accuracy.
 
-## Results and Visualizations
-The results of the linear regression analysis are presented in a structured manner. Visualizations, including scatter plots, are generated to visualize the relationship between independent variables and life expectancy.
+## Results and Visualisations
+The results of the linear regression analysis are presented in a structured manner. Visualisations, including scatter plots, are generated to visualise the relationship between independent variables and life expectancy.
 
 ## Conclusion
 The project provides insights into the factors that impact life expectancy. It demonstrates how data analysis and linear regression can be used to quantify these relationships. The findings can be valuable for policymakers and healthcare professionals.
